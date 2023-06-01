@@ -21,13 +21,6 @@ C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\MyWebpa
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.TagHelpers.input.cache
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.TagHelpers.output.cache
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.RazorCoreGenerate.cache
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.RazorTargetAssemblyInfo.cache
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.RazorTargetAssemblyInfo.cs
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.Views.pdb
@@ -37,5 +30,17 @@ C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.pdb
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.genruntimeconfig.cache
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\ref\MyWebpage.dll
 C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\MyWebpage.csproj.CopyComplete
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\One Coin.cshtml.g.cs
-C:\Users\chant\repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\Pages\Tracking Crypto.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\MyWebpage.StaticWebAssets.Pack.cache
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\msbuild.MyWebpage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\msbuild.build.MyWebpage.props
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MyWebpage.props
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MyWebpage.props
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Error.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Index.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\One Coin.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Privacy.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Shared\_Layout.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\Tracking Crypto.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\_ViewImports.cshtml.g.cs
+C:\Users\chant\Repo\MyWebpage\MyWebpage\obj\Debug\net5.0\Razor\pages\_ViewStart.cshtml.g.cs
